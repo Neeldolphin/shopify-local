@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "test",
+            "heading": "Image banner",
             "heading_size": "h0"
           }
         },
@@ -20,13 +20,8 @@
         "button": {
           "type": "buttons",
           "settings": {
-<<<<<<< HEAD
             "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
-=======
-            "button_label_1": "Demo",
             "button_link_1": "shopify:\/\/collections\/all",
->>>>>>> e5976a1babf3b5dbadb7a12e70041cd6a5250b70
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -47,7 +42,6 @@
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
-        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -59,18 +53,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Hello",
+            "heading": "Talk about your brand",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-<<<<<<< HEAD
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
-=======
-            "text": "<p>Welcom to test of india <\/p>"
->>>>>>> e5976a1babf3b5dbadb7a12e70041cd6a5250b70
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         }
       },
@@ -91,13 +81,13 @@
       "type": "featured-collection",
       "settings": {
         "title": "Featured products",
-        "heading_size": "h0",
+        "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
         "collection": "all",
-        "products_to_show": 10,
-        "columns_desktop": 5,
+        "products_to_show": 8,
+        "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
@@ -120,20 +110,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": "frontpage"
+            "collection": ""
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "andy-5744",
+            "product": "",
             "second_image": false
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "shop-by-brand"
+            "collection": ""
           }
         }
       },
@@ -158,13 +148,7 @@
       "settings": {
         "heading": "",
         "heading_size": "h1",
-<<<<<<< HEAD
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-=======
-        "enable_video_looping": false,
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "cover_image": "shopify:\/\/shop_images\/handful-of-acorns.jpg",
->>>>>>> e5976a1babf3b5dbadb7a12e70041cd6a5250b70
         "description": "",
         "full_width": false,
         "color_scheme": "background-1",
@@ -179,7 +163,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -188,7 +172,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -197,7 +181,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
